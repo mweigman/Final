@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Slideshow</title>
+    <!--favicon-->
+    <link rel="icon" type="image/png" href="favcon.jpg"/>
+</head>
+<body>
+<h1> Welcome to Final Slots!</h1>
+
+<!--alert here to see if user if 18-->
+<!--pop up as an alert before you are allowed to enter the main page-->
+<input type="text" id="dob" name="dob" placeholder="Enter DOB">
+<button type="submit" id="submit">I am at least 18 years old!</button>
+<br>
+<br>
+<br>
+<!--have user sign in to their account || sign up for new account-->
+<!--<fieldset>-->
+
+<!--</fieldset>-->
+<form>
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name" placeholder="Name">
+    </div>
+    <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" class="form-control" id="username" placeholder="Username">
+    </div>
+    <div class="form-group">
+        <label for="email">Email address</label>
+        <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+               placeholder="Enter email">
+<!--        <em><small id="emailHelp" class="form-text text-muted">We wont share you info!</small></em>-->
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" class="form-control" id="password" placeholder="Password">
+    </div>
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" id="verify">
+        <label class="form-check-label" for="verify">Verify Identity</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+</body>
+<script src="slideshow.js"></script>
+</html>

@@ -1,0 +1,8 @@
+* {
+    background-image: url("boxslot.jpg");
+    background-repeat: no-repeat;
+    /*background-size: 50% 50%;*/
+    background-position-x: center;
+    background-position-y: center;
+    margin: 20%;
+}

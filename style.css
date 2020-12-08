@@ -1,0 +1,11 @@
+* {
+    background-image: url("finalslots.jpg");
+}
+
+h1{
+    text-align: center;
+}
+
+form, button, div, input, label{
+    background-image: none;
+}
