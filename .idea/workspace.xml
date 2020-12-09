@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="af6c8e7d-39ba-4efa-9b12-0983d2e94a58" name="Default Changelist" comment="" />
+    <list default="true" id="af6c8e7d-39ba-4efa-9b12-0983d2e94a58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slots.js" beforeDir="false" afterPath="$PROJECT_DIR$/slots.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +31,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lJ7j5v7FDqP750T1qVyQmbqXey" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,17 +75,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607303472430</updated>
-      <workItem from="1607303473652" duration="7891000" />
+      <workItem from="1607303473652" duration="9272000" />
+      <workItem from="1607528722156" duration="5713000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="379" y="160" key="#Inspections" timestamp="1607304566869">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="379" y="160" key="#Inspections/0.0.1504.963@0.0.1504.963" timestamp="1607304566869" />
+    <state x="483" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607545534274">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="483" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1504.963@0.0.1504.963" timestamp="1607545534274" />
+    <state x="533" y="237" key="FileChooserDialogImpl" timestamp="1607529060100">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1607529060100" />
+    <state x="632" y="380" key="Github.ShareDialog" timestamp="1607398766755">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="632" y="380" key="Github.ShareDialog/0.0.1504.963@0.0.1504.963" timestamp="1607398766755" />
+    <state x="535" y="187" key="Github.UntrackedFilesDialog" timestamp="1607398779522">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="535" y="187" key="Github.UntrackedFilesDialog/0.0.1504.963@0.0.1504.963" timestamp="1607398779522" />
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2" timestamp="1607399228330">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1607399228330" />
+    <state x="847" y="0" width="564" height="661" key="dock-window-1" timestamp="1607545020197">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="847" y="0" width="564" height="661" key="dock-window-1/0.0.1504.963@0.0.1504.963" timestamp="1607545020197" />
+    <state x="583" y="273" key="svn.repositoryBrowser" timestamp="1607399272213">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="583" y="273" key="svn.repositoryBrowser/0.0.1504.963@0.0.1504.963" timestamp="1607399272213" />
   </component>
 </project>
