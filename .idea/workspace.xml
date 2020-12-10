@@ -21,9 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="af6c8e7d-39ba-4efa-9b12-0983d2e94a58" name="Default Changelist" comment="slots commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slots.css" beforeDir="false" afterPath="$PROJECT_DIR$/slots.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/slots.js" beforeDir="false" afterPath="$PROJECT_DIR$/slots.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607303472430</updated>
       <workItem from="1607303473652" duration="9272000" />
-      <workItem from="1607528722156" duration="10931000" />
+      <workItem from="1607528722156" duration="14894000" />
     </task>
     <task id="LOCAL-00001" summary="slots commit">
       <created>1607547609495</created>
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607559198320</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="slots commit">
+      <created>1607562559616</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607562559616</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,10 +227,10 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1483" height="317" key="GridCell.Tab.3.right/0.0.1504.963@0.0.1504.963" timestamp="1607551524306" />
-    <state x="345" y="215" key="Vcs.Push.Dialog.v2" timestamp="1607547649842">
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2" timestamp="1607570143011">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="345" y="215" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1607547649842" />
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1607570143011" />
     <state x="570" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607547633953">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
