@@ -9,14 +9,13 @@ $( document ).ready(function() {
         if( rdmBoolean == false ) {
             console.log(false)
             //change backgrounds to not match if loser
-            $( ".spinner.last" ).removeClass("bg1")
+            $( ".spinner.last" ).removeClass("bkg1")
             $( ".spinner.last" ).each(function(i){
-                $(this).addClass(`bg${i+1}`)
+                $(this).addClass(`bkg${i+1}`)
             })
         } else {
-            $( ".spinner.last" ).addClass("bg1")
+            $( ".spinner.last" ).addClass("bkg1")
         }
-
 
         //move the icons
         $( ".spinner.row1" ).each(function(i){
@@ -33,17 +32,12 @@ $( document ).ready(function() {
         if( rdmBoolean == true ) {
             $('#winner').delay(3000).fadeIn()
         }
-
     })
 
     //reset the game
     $('#startOver').click(function(){
         $( ".spinner" ).css({top: `0px`})
-        $( ".spinner.last" ).removeClass("bg1 bg2 bg3 bg4 bg5")
+        $( ".spinner.last" ).removeClass("bkg1 bkg2 bkg3 bkg4 bkg5")
         $('#winner').fadeOut()
-
-
     })
-
-
 });

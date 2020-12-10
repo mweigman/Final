@@ -1,5 +1,12 @@
 * {
-    background-image: url("finalslots.jpg");
+    margin-top: 10px;
+    margin-left: 20px;
+}
+body {
+    background-image: url("finalslotsbkg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    text-decoration: none;
 }
 
 h1{
